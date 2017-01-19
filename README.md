@@ -3,10 +3,13 @@ A distributed tram service simulation with replication capabilities using Java R
 
 ## Screenshots
 #### Client
-![alt tag](https://media.giphy.com/media/26xByqrZqnMyF28cU/source.gif)
+![Client](https://media.giphy.com/media/26xByqrZqnMyF28cU/source.gif)
 
 #### Front end
-![alt tag](https://media.giphy.com/media/l3q2XXW9mzb0So14A/source.gif)
+![Front end](https://media.giphy.com/media/l3q2XXW9mzb0So14A/source.gif)
 
 #### Replica manager (Server)
-![alt tag](https://media.giphy.com/media/l3q2DFLvOHfviyAco/source.gif)
+![Replica manager](https://media.giphy.com/media/l3q2DFLvOHfviyAco/source.gif)
+
+#### Server control panel
+![Server control panel](https://s29.postimg.org/ixdd60hev/server_control_panel.png)
